@@ -34,6 +34,7 @@ This project contributes toward low-resource language preservation and provides 
 ## 📁 Folder Structure
 
 LucknowwiBabu/
+
 ├── data/
 │ ├── awadhi_pages/ # Original Awadhi text corpus
 │ │ └── raw/ # Raw, unprocessed Awadhi text files
@@ -57,7 +58,6 @@ LucknowwiBabu/
 │
 ├── requirements.txt # Dependencies list
 └── README.md # Project documentation
-
 
 ---
 

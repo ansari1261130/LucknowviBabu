@@ -1,10 +1,33 @@
+# Virtual environment
 .venv/
+env/
+venv/
+
+# IDE settings
 .idea/
+.vscode/
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
-.DS_Store
+
+# Logs and experiments
 experiments/logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Data (optional: keep raw/private data local)
 data/raw/
+data/awadhi_pages/
+!data/parallel_pairs.csv   # allow dataset summary file
+
+# Notebooks checkpoints
+.ipynb_checkpoints/

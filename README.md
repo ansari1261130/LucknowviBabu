@@ -58,7 +58,6 @@ LucknowwiBabu/
 ├── requirements.txt # Dependencies list
 └── README.md # Project documentation
 
-
 ---
 
 ## 🧩 Setup Instructions
